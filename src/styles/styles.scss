@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  color: #666;
+}
+
+.container {
+  position: relative;
+  width: 950px;
+  background: #f0f0f0;
+  margin: 0 auto;
+
+  height: auto !important;
+  min-height: 100%;
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background: #ddd;
+}
